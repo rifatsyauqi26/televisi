@@ -46,8 +46,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/CGTN%20SD-FirstMedia-Chl-210.jpg",CGTN Documentary
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u8
 #EXTINF:-1 group-title="MOVIES",CH3888
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8
-#EXTINF:-1 group-title="MOVIES",CH3888
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Star_Chinese_Channel_logo_2016.png",CHINASTART
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8
@@ -126,8 +124,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Garuda%20TV%20SD-FirstMedia-Chl-42.jpg",Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png",Gem
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png",Gem
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.firstmedia.com/files/channel%20logo/global-trekker.jpg",Global Trekker
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
@@ -185,8 +181,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Lifetime%20HD-FirstMedia-Chl-359.jpg",Life Time
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1QHF47XNnMVlQ6H7d5uxeBE5QU0x971LkCw3FduK1n79HxS1RKRjOH0ku3xLYA7P_gs&usqp=CAU",LIGHT MUSIC
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3922%29/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
@@ -199,12 +193,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg",MOJI
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_zzk5g5cb/banner_mdpi.png",MTATV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_zzk5g5cb/banner_mdpi.png",MTATV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/05.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_zzk5g5cb/banner_mdpi.png",MTATV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.indihometv.com/images/logo_mtvlive_small.png",MTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.indihometv.com/images/logo_mtvlive_small.png",MTV STAGE
@@ -223,16 +211,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.firstmedia.com/files/icons/channel/One-Ch205.png",One
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Wb6SVqBt/20230520-101134.jpg",Paramount Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg",Rock Action
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg",Rock Entertainment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch335%29/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg",Rock Entertainment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wixstatic.com/media/f272e7_3f1770ad4dc5468aba9eff4f1a7f672d~mv2.png",SHINE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3900%29/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png",SONY ENTERTAIMENT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",SONY MAX
