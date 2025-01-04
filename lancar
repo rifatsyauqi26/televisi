@@ -1,165 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="INDONESIA",moji
-https://aufannada.github.io/streaming/moji.m3u8
-#EXTINF:-1 group-title="INDONESIA",rtv
-https://aufannada.github.io/streaming/rtv.m3u8
-#EXTINF:-1 group-title="INDONESIA",sctv
-https://aufannada.github.io/streaming/starmovies-10.m3u8
-#EXTINF:-1 group-title="INDONESIA",trans7
-https://aufannada.github.io/streaming/trans7.m3u8
-#EXTINF:-1 group-title="INDONESIA",transtv
-https://aufannada.github.io/streaming/transtv.m3u8
-#EXTINF:-1 group-title="INDONESIA",tv9nu
-https://aufannada.github.io/streaming/tv9nu.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png",ANTV
-https://aufannada.github.io/streaming/antv.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg",BTV
-https://aufannada.github.io/streaming/btv.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.transtv.co.id/livetv/anytv/GTV_live_streaming_tv.jpg",GTV
-https://aufannada.github.io/streaming/gtv.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",INDOSIAR
-https://aufannada.github.io/streaming/indosiar.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://am.sindonews.net/mobile/2016/images/tv/live-inewstv.png",Inews
-https://aufannada.github.io/streaming/inews.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Kompas.png",Kompas TV
-https://aufannada.github.io/streaming/kompastv.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.pinimg.com/474x/9d/ea/fb/9deafbdcf0ccd68ead00354764759cf7.jpg",Metro TV
-https://aufannada.github.io/streaming/metrotv.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/MNCTV_logo_2015.svg",MNCTV
-https://aufannada.github.io/streaming/mnctv.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET. TV
-https://aufannada.github.io/streaming/nettv.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://am.sindonews.net/mobile/2016/images/tv/live-rcti.png",RCTI
-https://aufannada.github.io/streaming/rcti.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
-https://aufannada.github.io/streaming/sctv.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20TV%20One.png",TVONE
-https://aufannada.github.io/streaming/tvone.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg",TVRI
-https://aufannada.github.io/streaming/tvri.m3u8
-#EXTINF:-1 group-title="KIDS",animax
-https://aufannada.github.io/streaming/animax.m3u8
-#EXTINF:-1 group-title="KIDS",cartoonnetwork
-https://aufannada.github.io/streaming/cartoonnetwork.m3u8
-#EXTINF:-1 group-title="KIDS",disney channel
-https://aufannada.github.io/streaming/disneychannel.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Nickelodeon%20SD-FirstMedia-Chl-125.jpg",Nickelodeon
-https://aufannada.github.io/streaming/nickelodeon.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",nowrock
-https://aufannada.github.io/streaming/nowrock.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",people are awesome
-https://aufannada.github.io/streaming/peopleareawesome.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",travel channel
-https://aufannada.github.io/streaming/lovenature.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",animalplanet
-https://aufannada.github.io/streaming/animalplanet.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",asian food network
-https://aufannada.github.io/streaming/asianfoodnetwork.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",failarmy
-https://aufannada.github.io/streaming/failarmy.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",foodnetwork
-https://aufannada.github.io/streaming/cnnindonesia.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",globaltrekker
-https://aufannada.github.io/streaming/globaltrekker.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",lifetime
-https://aufannada.github.io/streaming/lifetime.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",lovenature
-https://aufannada.github.io/streaming/starmovies-12.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",national geographic
-https://aufannada.github.io/streaming/nationalgeographic.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",national geographic wild
-https://aufannada.github.io/streaming/nationalgeographicwild.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",outdoor
-https://aufannada.github.io/streaming/outdoor.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.firstmedia.com/files/packages/DA-LOGO_FINAL_HD_black.jpg",Discovery Asia
-https://aufannada.github.io/streaming/discoveryasia.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://cdn4.mbahnunungonline.net/img/AWvwPm5.png?v=1.0.0.1",Discovery Channel
-https://aufannada.github.io/streaming/discovery.m3u8
-#EXTINF:-1 group-title="MOVIES",paramountnetwork
-https://aufannada.github.io/streaming/foodnetwork.m3u8
-#EXTINF:-1 group-title="MOVIES",warnertv
-https://aufannada.github.io/streaming/warnertv.m3u8
-#EXTINF:-1 group-title="MOVIES",zeebioskop
-https://aufannada.github.io/streaming/zeebioskop.m3u8
-#EXTINF:-1 group-title="MOVIES",&flix
-https://aufannada.github.io/streaming/&flix.m3u8
-#EXTINF:-1 group-title="MOVIES",&prive
-https://aufannada.github.io/streaming/&prive.m3u8
-#EXTINF:-1 group-title="MOVIES",axn
-https://aufannada.github.io/streaming/axn.m3u8
-#EXTINF:-1 group-title="MOVIES",bioskop indonesia
-https://aufannada.github.io/streaming/bioskopindonesia.m3u8
-#EXTINF:-1 group-title="MOVIES",cinemax
-https://aufannada.github.io/streaming/cinemax.m3u8
-#EXTINF:-1 group-title="MOVIES",citra drama
-https://aufannada.github.io/streaming/citradrama.m3u8
-#EXTINF:-1 group-title="MOVIES",dreamworks
-https://aufannada.github.io/streaming/dreamworks.m3u8
-#EXTINF:-1 group-title="MOVIES",hbo family
-https://aufannada.github.io/streaming/hbofamily.m3u8
-#EXTINF:-1 group-title="MOVIES",hbo hits
-https://aufannada.github.io/streaming/hbohits.m3u8
-#EXTINF:-1 group-title="MOVIES",hbo signature
-https://aufannada.github.io/streaming/hbosignature.m3u8
-#EXTINF:-1 group-title="MOVIES",hits movies
-https://aufannada.github.io/streaming/hitsmovies.m3u8
-#EXTINF:-1 group-title="MOVIES",starmovies-1
-https://aufannada.github.io/streaming/starmovies-1.m3u8
-#EXTINF:-1 group-title="MOVIES",starmovies-10
-https://aufannada.github.io/streaming/spotv-2.m3u8
-#EXTINF:-1 group-title="MOVIES",starmovies-12
-https://aufannada.github.io/streaming/densfoodchannel.m3u8
-#EXTINF:-1 group-title="MOVIES",starmovies-13
-https://aufannada.github.io/streaming/starmovies-13.m3u8
-#EXTINF:-1 group-title="MOVIES",starmovies-2
-https://aufannada.github.io/streaming/starmovies-2.m3u8
-#EXTINF:-1 group-title="MOVIES",starmovies-3
-https://aufannada.github.io/streaming/starmovies-3.m3u8
-#EXTINF:-1 group-title="MOVIES",starmovies-4
-https://aufannada.github.io/streaming/starmovies-4.m3u8
-#EXTINF:-1 group-title="MOVIES",starmovies-5
-https://aufannada.github.io/streaming/starmovies-5.m3u8
-#EXTINF:-1 group-title="MOVIES",starmovies-6
-https://aufannada.github.io/streaming/starmovies-6.m3u8
-#EXTINF:-1 group-title="MOVIES",starmovies-7
-https://aufannada.github.io/streaming/starmovies-7.m3u8
-#EXTINF:-1 group-title="MOVIES",starmovies-8
-https://aufannada.github.io/streaming/starmovies-8.m3u8
-#EXTINF:-1 group-title="MOVIES",starmovies-9
-https://aufannada.github.io/streaming/starmovies-9.m3u8
-#EXTINF:-1 group-title="MOVIES",thrill
-https://aufannada.github.io/streaming/thrill.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO 2
-https://aufannada.github.io/streaming/hbo.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg",TVN
-https://aufannada.github.io/streaming/tvn.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TvN%20Movies%20HD-FirstMedia-Chl-343.jpg",TVN Movies
-https://aufannada.github.io/streaming/tvnmovies.m3u8
-#EXTINF:-1 group-title="NEWS",cnbcindonesia
-https://aufannada.github.io/streaming/cnbcindonesia.m3u8
-#EXTINF:-1 group-title="NEWS",aljazeera-arabic
-https://aufannada.github.io/streaming/aljazeera-arabic.m3u8
-#EXTINF:-1 group-title="NEWS",aljazeera-english
-https://aufannada.github.io/streaming/aljazeera-english.m3u8
-#EXTINF:-1 group-title="NEWS",cnnindonesia
-https://aufannada.github.io/streaming/tvmu.m3u8
-#EXTINF:-1 group-title="NEWS",idtv
-https://aufannada.github.io/streaming/idtv.m3u8
-#EXTINF:-1 group-title="NEWS",inewsiraq
-https://aufannada.github.io/streaming/inewsiraq.m3u8
-#EXTINF:-1 group-title="RELIGI",madinahtv
-https://aufannada.github.io/streaming/madinahtv.m3u8
-#EXTINF:-1 group-title="SPORTS",livesports
-https://aufannada.github.io/streaming/livesports.m3u8
-#EXTINF:-1 group-title="SPORTS",live
-https://aufannada.github.io/streaming/live.m3u8
-#EXTINF:-1 group-title="SPORTS",soccer channel
-https://aufannada.github.io/streaming/soccerchannel.m3u8
-#EXTINF:-1 group-title="SPORTS",sportstars
-https://aufannada.github.io/streaming/sportstars.m3u8
-#EXTINF:-1 group-title="SPORTS",sportstars-2
-https://aufannada.github.io/streaming/sportstars-2.m3u8
-#EXTINF:-1 group-title="SPORTS",spotv
-https://aufannada.github.io/streaming/spotv.m3u8
-#EXTINF:-1 group-title="SPORTS",spotv-2
-https://aufannada.github.io/streaming/paramountnetwork.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png",ASTRO ARENA 1
+http://15.235.144.67:35461/654321/123456/966
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png",ASTRO ARENA 2
+http://15.235.144.67:35461/654321/123456/965
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png",ASTRO BADMINTON
+http://15.235.144.67:35461/654321/123456/970
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",ASTRO PREMIER LEAGUE 1
+http://15.235.144.67:35461/654321/123456/11243
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",ASTRO PREMIER LEAGUE 2
+http://15.235.144.67:35461/654321/123456/971
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",BEIN SPORT 2
+http://15.235.144.67:35461/654321/123456/961
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",BEIN SPORT 3
+http://15.235.144.67:35461/654321/123456/960
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
+http://15.235.144.67:35461/654321/123456/967
+#EXTINF:-1 group-title="KNOWLEDGE",DISCOVERY ASIA
+http://31.42.187.37:25461/live/watchpad13158/1234/35.ts
+#EXTINF:-1 group-title="SPORTS",SOCCER CHANNEL
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_2499968=7.m3u8
+#EXTINF:-1 group-title="SPORTS",TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
