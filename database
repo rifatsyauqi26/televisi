@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png",ASTRO ARENA 1
+http://15.235.144.67:35461/654321/123456/966
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png",ASTRO ARENA 2
+http://15.235.144.67:35461/654321/123456/965
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png",ASTRO BADMINTON
+http://15.235.144.67:35461/654321/123456/970
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",ASTRO PREMIER LEAGUE 1
+http://15.235.144.67:35461/654321/123456/11243
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",ASTRO PREMIER LEAGUE 2
+http://15.235.144.67:35461/654321/123456/971
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",BEIN SPORT 2
+http://15.235.144.67:35461/654321/123456/961
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",BEIN SPORT 3
+http://15.235.144.67:35461/654321/123456/960
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
+http://15.235.144.67:35461/654321/123456/967
+#EXTINF:-1 group-title="KNOWLEDGE",DISCOVERY ASIA
+http://31.42.187.37:25461/live/watchpad13158/1234/35.ts
+#EXTINF:-1 group-title="SPORTS",SOCCER CHANNEL
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_2499968=7.m3u8
+#EXTINF:-1 group-title="SPORTS",TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
 #EXTINF:-1 group-title="MOVIES",&flix
 https://aufannada.github.io/streaming/&flix.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn4.mbahnunungonline.net/img/4L7BYKM.png?v=8.8.4.4",&pictures
