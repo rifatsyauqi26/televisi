@@ -245,7 +245,15 @@ https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_1500000=10003-mp4a_96000_eng=20002.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/gtv.png",GTV
+https://allcutv.rctiplus.id/gtv2023.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",INews
+https://allcutv.rctiplus.id/inews2023.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/endrisusilo/endro/main/MNCTV.png",MNCTV
+https://allcutv.rctiplus.id/mnctv2023.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://am.sindonews.net/mobile/2016/images/tv/live-rcti.png",RCTI
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+https://allcutv.rctiplus.id/rcti2023.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/endrisusilo/endro/main/MNCTV.png",MNCTV
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_hls/MNCTV-HD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg",Real Madrid TV
 https://rmtv-canela.amagi.tv/playlist.m3u8
