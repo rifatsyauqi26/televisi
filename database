@@ -189,56 +189,6 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/8icy9jfl1hjeg3b/setantasports.png",Setanta Sports 1
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
-#EXTINF:-1 group-title="MOVIES",Outdoor Channel
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/119/index.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",English Club
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/15190/index.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO BR
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/19046/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 1
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/2499/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 2
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/2500/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png",beIN Sports 3
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/2501/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://od.lk/s/M18yOTc5OTMwNjFf/canalPlusOne.jpg",CANAL+ SPORTS 1
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/2502/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ewsat.com/img/BT_SPORT_1.png",BT Sport 1
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/2505/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ewsat.com/img/BT_SPORT_2.png",BT Sport 2
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/2506/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 1
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6123/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png",beIN Sports 3
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6124/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 4
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6125/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 5
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6126/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 6
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6127/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 7
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6128/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 8
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6129/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 1 Premium
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6131/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 1
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6132/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 2
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6133/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://seeklogo.com/images/B/bein-movies-logo-F391F272F3-seeklogo.com.png",beIN MOVIE ACTION 1
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6134/index.m3u8
-#EXTINF:-1 group-title="MOVIES",beIN MOVIE DRAMA
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6135/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://seeklogo.com/images/B/bein-movies-logo-F391F272F3-seeklogo.com.png",beIN MOVIE FAMILY
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6136/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://seeklogo.com/images/B/bein-movies-logo-F391F272F3-seeklogo.com.png",beIN SERIES 1
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6138/index.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN024BeINJunior.png",beIN Junior
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/6140/index.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",English Club
-http://279c179e.edmonst.net/iptv/PG67LZ5WY3V82K/993/index.m3u8
 #EXTINF:-1 group-title="SPORTS",SPORT 1
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
 #EXTINF:-1 group-title="SPORTS",SPORT 2
