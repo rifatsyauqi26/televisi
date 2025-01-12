@@ -409,3 +409,5 @@ https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
 https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 #EXTINF:-1 group-title="BRUNEI" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/knowledge/wildearth.png",Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
