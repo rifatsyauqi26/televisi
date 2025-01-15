@@ -403,6 +403,22 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg",JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV3.png",ETV Bioskop 3
+https://mantul.biz.id:443/inetwork/gayanet12/1092
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",MNC TV
+https://mantul.biz.id:443/inetwork/gayanet12/11257
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV4.png",ETV Bioskop 4
+https://mantul.biz.id:443/inetwork/gayanet12/13924
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU",Etv Bioskop
+https://mantul.biz.id:443/inetwork/gayanet12/242
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU",Etv Bioskop 5
+https://mantul.biz.id:443/inetwork/gayanet12/27431
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png",RCTI
+https://mantul.biz.id:443/inetwork/gayanet12/4906
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50",Moji TV
+https://mantul.biz.id:443/inetwork/gayanet12/8251
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png",GTV
+https://mantul.biz.id:443/inetwork/gayanet12/8932
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://klik.tvri.go.id/po-content/uploads/aceh.png",TVRI Aceh
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://klik.tvri.go.id/po-content/uploads/maluku.png",TVRI Ambon
@@ -461,6 +477,110 @@ https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_1500000=10003-mp4a_96000_eng=20002.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Astro_Arena_Bola_1_NEW.png",Astro Arena Bola 1
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaBola1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Astro_Arena_Bola_2.png",Astro Arena Bola 2
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaBola2.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAura.png",Astro Aura
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroAura.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png",Astro Badminton
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroBadimnton.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroCitra.png",Astro Citra
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroCitra.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPrima.png",Astro Prima
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroPrima.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRania.png",Astro Rania
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroRania.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png",Astro Ria
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroRia.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png",Astro Sport Plus
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroSportPlus.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MyBoo.png",Boo
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Boo.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png",Berita Satu
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/BTV.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CbsSports.png",CBS Sports Network
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/CbsSprorts.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Drnmjtb/Chinese-Drama.jpg",Chinese Drama
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ChineseDrama.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://live.firstmedia.com/files/email/template/webp/icon-cinemaworld.webp",Cinema Word
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/CinemaWorld.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNBC.png",CNBC Indonesia
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/CnBc.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png",CNN Indonesia
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/CNN.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Combate4K.png",Combate 4K
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Combate4K.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DramaSangat.png",Drama Sangat
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/DramaSangat.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.kibrispdr.org/data/757/logo-masih-dunia-lain-10.png",Dunia Lain
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/DuniaLain.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=32&kodegb=Eat__Go_Transvision.png",Eat & Go
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/EatGo.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV3.png",ETV Bioskop 3
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ETV3.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV4.png",ETV Bioskop 4
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ETV4.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Fik.png",Flik
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Flik.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KompasTV.png",Kompas TV
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/KompasTV.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Simpati-prime-packages-for-entertainment-telkomsel-22.png",Maxstream
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Maxstream.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png",Metro TV
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MetroTV.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MqTv.png",MQTV
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MQTV.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MTRSPT.png",MtrSpt1
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MtrSpt1.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY%20CINEMA%20NEW.png",My Cinema
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MyCinema.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY CINEMA ASIA.png",My Cinema Asia
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MyCinemaAsia.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY%20FAMILY%20NEW.png",My Family Channel
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MyFamilyChannel.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/NBA_Premium_Logo_TV_2017.png",NBA
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NBA.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416",Net TV
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NetTV.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Astro_Oasis_HD.png",Astro Oasis
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/OasisHD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/PFL.png",PFL
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/PFL.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSensasi.png",Astro Sensasi
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Sensasi.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Sports 5
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/SonyTen5.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony Sports 1
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/SonyTenHD1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony Sports 2
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/SonyTenHD2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",Sony Sports 3
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/SonyTenHD3.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",Sony Sports 4
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/SonyTenHD4.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSFootballSerieA.png",SuperSports Football Serie A
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/SSFootballSerieA.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/dv7v9w1719404547.png",SuperSports Laliga
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/SSL.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SuperSportPSL.png",SuperSports PSL
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/SuperSportPSL.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dstv.com/media/puxctgsq/ss_premier-league.png",SuperSports Premier League
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/SupSpl.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png",Ten Sports
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/TenSports.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png",TVOne
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/TvOneHD.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png",TvRi
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/TVRINasional.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/UfcFightPass.png",UFC Fight Pass
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/UfcFightPass.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/WSports.png",Astro WSports
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/WSports.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/t6lerk1573988295.png",Ziggo Sport
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ZiggoSport.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ziggo2.png",Ziggo Sport 2
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ZiggoSport2.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/f0PCXs1/Madu-TV.png",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg",Real Madrid TV
