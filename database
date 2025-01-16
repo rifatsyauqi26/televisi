@@ -4082,3 +4082,73 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8?checkedby:DN4-IPTV
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest",Zoo Moo
 https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/fullhd_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png",Al Ekhbariya
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://images.radiovolna.net/_files/images/stations/428407/b800f60c8372ed18627bb4a3d6474013.png",MBC FM Riyadh
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/640px-Cartoon_Network_Arabic_logo.png",Cartoon Network Arabia 
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Al-arabiya-al-hadath.jpg",Al Hadath TV
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/MBC_Iraq.svg/560px-MBC_Iraq.svg.png",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/MBC_Iraq.svg/560px-MBC_Iraq.svg.png",MBC Iraq 1
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/MBC_Iraq.svg/560px-MBC_Iraq.svg.png",MBC Iraq 2
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://images.seeklogo.com/logo-png/24/2/mbc-action-logo-png_seeklogo-249686.png",SSC Action Waleed 
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/1838532974591012864/hKRqkMBq_400x400.jpg",MBC 1
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MBC3_logo_HQ.png",MBC 3
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MBC3_logo_HQ.png",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MBC3_logo_HQ.png",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MBC3_logo_HQ.png",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/800px-MBC_4_TV_Channel_Logo.png",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/800px-MBC_4_TV_Channel_Logo.png",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/800px-MBC_4_TV_Channel_Logo.png",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_4.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://e7.pngegg.com/pngimages/37/769/png-clipart-mbc-bollywood-television-channel-logo-bolliwood-love-purple.png",MBC Bollywood
+http://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_4.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://e7.pngegg.com/pngimages/37/769/png-clipart-mbc-bollywood-television-channel-logo-bolliwood-love-purple.png",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://e7.pngegg.com/pngimages/37/769/png-clipart-mbc-bollywood-television-channel-logo-bolliwood-love-purple.png",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://e7.pngegg.com/pngimages/37/769/png-clipart-mbc-bollywood-television-channel-logo-bolliwood-love-purple.png",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://e7.pngegg.com/pngimages/37/769/png-clipart-mbc-bollywood-television-channel-logo-bolliwood-love-purple.png",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_MBC_Drama_%2B.png",MBC Plus Drama 
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="",MBC Plus Drama 
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_MBC_Drama_%2B.png",MBC Plus Drama 
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e0d35889873679.Y3JvcCw4MDgsNjMyLDAsMA.png",Panorama FM
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Rotana_khalijia_New.png",Rotana Khalijia
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://wanasah.ca/wp-content/uploads/2022/01/wanasah-final-logo.png",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://wanasah.ca/wp-content/uploads/2022/01/wanasah-final-logo.png",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 group-title="ARAB CHANNEL" tvg-logo="https://wanasah.ca/wp-content/uploads/2022/01/wanasah-final-logo.png",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
