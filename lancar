@@ -1,3 +1,64 @@
+#EXTM3U
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://storage.googleapis.com/pastiumroh/images/1/XSOMnYNboBxAsfBVvgynT783VsxAr18NyimcWKpU.png",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="RELIGI",DMITV
+http://cdn.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png",EBS 1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_logo_1.png",EBS 1 KOREA
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_logo_1.png",EBS 1 KOREA
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png",EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_logo_2.png",EBS 2 KOREA
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_logo_2.png",EBS 2 KOREA
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/5wLJzb0.png",EBS E
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_english_logo.png",EBS English
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Xs4j9YI.png",EBS FM
+http://streaming.suzanafm.com:8100/;stream.nsv
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.meituan.net/csc/df949a136e7323841ed4837a30baed0228071.jpg",EBS Kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.meituan.net/csc/df949a136e7323841ed4837a30baed0228071.jpg",EBS Kids
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.meituan.net/csc/df949a136e7323841ed4837a30baed0228071.jpg",EBS Kids
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8?Uri:eroz_brebes.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/62oo8Bx.png",EBS KIDS
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/aCeuhon.png",EBS+ 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/pllIMGi.png",EBS+ 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqXcSDTjYwcL5sDlcEfWCYYw.png",GTV
+https://allcutv.rctiplus.id/gtv2023.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",INDOSIAR
+http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",INews
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png",Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV
+https://allcutv.rctiplus.id/mnctv2023.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg",MOJI
+http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
+#EXTINF:-1 ,Musik Indonesia
+http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/220px-RCTI_logo_2015.svg.png",RCTI
+https://allcutv.rctiplus.id/rcti2023.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
+http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg",TVRI World
+http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest",Zoo Moo
+https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png",V RADIO
 http://202.147.199.100:8000/;stream.nsv
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/dpADolC.png",MNC Trijaya FM Jakarta
