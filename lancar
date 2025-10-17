@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/bbcnews.jpg?raw=true",BBC NEWS
-https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://mncvision.id/userfiles/image/channel/bloomberg.png",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/asia.m3u8
