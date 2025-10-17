@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/horizonsports.jpg?raw=true",HORIZON 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/muitv.jpg?raw=true",MUI TV
 https://mui.siar.us/mui/live/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/bbcnews.jpg?raw=true",BBC NEWS
