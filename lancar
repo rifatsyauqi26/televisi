@@ -22,7 +22,6 @@ https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
 https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://iili.io/Jmo0xC7.png",HGTV
-https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -104,10 +103,6 @@ http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest",Zoo Moo
 https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png",V RADIO
-http://202.147.199.100:8000/;stream.nsv
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/dpADolC.png",MNC Trijaya FM Jakarta
-http://202.147.199.101:8000/;
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://topcareer.id/wp-content/uploads/2020/07/Logo_bdg_tv_2016.png",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/Y282owj.png",Thrill
