@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://iili.io/Jmo0xC7.png",HGTV
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+https://i.mjh.nz/.r/discovery-hgtv.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp", RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://iili.io/JmoCDmJ.png", Smithsonian Channel
