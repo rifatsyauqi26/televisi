@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Bravo+1
+https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
 https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://iili.io/Jmo0xC7.png",HGTV
