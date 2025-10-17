@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMtMLeBVE7c53EhV6mE2qLnYOXyz_jz9Xiw&usqp=CAU",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/horizonsports.jpg?raw=true",HORIZON 
