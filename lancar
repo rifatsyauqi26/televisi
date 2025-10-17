@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",ARIRANG
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",Star Movies Gold
 https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://oxygentv.id/img/logo-putih.png", Oxygen TV
