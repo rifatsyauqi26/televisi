@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/Garuda-TV-Logo-2025.png",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC INDONESIA
