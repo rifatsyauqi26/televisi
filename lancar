@@ -7,18 +7,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://e.siar.us/live/deikidstv.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://iili.io/JmoB0wx.png",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Eden+1
-https://i.mjh.nz/.r/eden-plus1.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Tereo
-https://i.mjh.nz/.r/te-reo.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Three+1
-https://i.mjh.nz/.r/three-plus1.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Maori TV
-https://i.mjh.nz/.r/maori-tv.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",MOVIESPHERE
-https://i.mjh.nz/.r/discovery-ptms.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Bravo+1
-https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
 https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://iili.io/Jmo0xC7.png",HGTV
