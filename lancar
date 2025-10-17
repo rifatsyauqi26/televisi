@@ -1,8 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
+https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://iili.io/Jmo0xC7.png",HGTV
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp", RT Documentary
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://iili.io/JmoCDmJ.png", Smithsonian Channel
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
