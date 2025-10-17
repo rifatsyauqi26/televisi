@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://iili.io/JmoB0wx.png",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",Eden+1
 https://i.mjh.nz/.r/eden-plus1.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",Tereo
