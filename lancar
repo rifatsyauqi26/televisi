@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg",TV9 NUSANTARA
+https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg",INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/mr9DN9rv/surabaya-tv.png",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",My Cinema
