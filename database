@@ -79,6 +79,10 @@ http://213.57.91.138:8000/play/a06h
 http://khano.nng.cloudns.us/live/m3u8/ns/f5f5c18cf037919.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",Al Quran Al Kareem (Madinah)
+https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",Al Quran Al Kareem (Makkah)
+https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/mJIG5IV.png",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/PeAcXB9.png",Al Sharqiya News
@@ -165,6 +169,8 @@ http://khano.nng.cloudns.us/live/m3u8/int/0c913970f4e013e.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg",AniPlus
 https://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg",ANIPLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png",ANTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png",ANTV
@@ -587,6 +593,10 @@ https://op-group2-swiftservesd-1.dens.tv/s/s31/01.m3u8
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedby:DN4-IPTV
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn4.mbahnunungonline.net/img/2RySrJl.png?v=1.0.0.1",CCTV 4
 http://khano.nng.cloudns.us/live/m3u8/int/b0e5bb72ae995c6.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn4.mbahnunungonline.net/img/2RySrJl.png?v=1.0.0.1",CCTV 4
+https://op-group1-swiftservesd-1.dens.tv/s/s19/01.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn4.mbahnunungonline.net/img/2RySrJl.png?v=1.0.0.1",CCTV 4
+https://op-group1-swiftservesd-1.dens.tv/s/s19/02.m3u8
 #EXTINF:-1 group-title="MOVIES",celebritiesTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn4.mbahnunungonline.net/img/Jy0qhiH.png?v=1.0.0.1",Celestial Classic Movies
@@ -793,6 +803,8 @@ http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/8335.ts
 http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6681/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true",Destination America
 http://fl41.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 ,DFC Food Channel
+https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.opp.no/applefavicon.png",DHOHO TV
@@ -919,6 +931,10 @@ http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="NEWS",DW
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW
+https://op-group2-swiftservesd-1.dens.tv/s/s11/S1/mnf.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW
+https://op-group2-swiftservesd-1.dens.tv/s/s11/S4/mnf.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png",DW Deutsch
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/DW%20English%20SD-FirstMedia-Chl-233.jpg",DW English
@@ -971,6 +987,10 @@ http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/2532/index.m3u8
 http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/7211.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://choos.wap.sh/images/radio/7166.jpg",Elshinta FM
 https://stream-ssl.arenastreaming.com:8000/jakarta
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://pbs.twimg.com/media/Ctj3YHeUkAAoLht.jpg",Elshinta TV
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S1/mnf.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://pbs.twimg.com/media/Ctj3YHeUkAAoLht.jpg",Elshinta TV
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg",ELSHINTA TV
 http://khano.nng.cloudns.us/live/m3u8/id/383fb71f4a76ab2.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg",ELSHINTA TV
@@ -1403,6 +1423,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=li
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",INDOSIAR
 https://cdnjkt913.transvision.co.id:1004/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",INDOSIAR
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_LdxoAluRADLiODXO_nC06a5t5F3l_0_CnPFOoVOiZJg.png",INews
 https://allcutv.rctiplus.id/inews2023.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",INews
@@ -1457,6 +1481,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/NVODNmw.png?v=1.0.0.1",JakTV
 http://khano.nng.cloudns.us/live/m3u8/id/a6e7e966ea54cd3.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/NVODNmw.png?v=1.0.0.1",JakTV
+https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/DATJMK7.png?v=1.0.0.1",Jawapos TV
 http://khano.nng.cloudns.us/live/m3u8/id/459caa984301138.m3u8
 #EXTINF:-1 group-title="MOVIES",JiangsuTV
@@ -1559,6 +1585,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png",Kompas TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV
+https://op-group1-swiftservehd-1.dens.tv/s/s104/02.m3u8
 #EXTINF:-1 group-title="NEWS",KOMPASTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/k4HT1hzH/kozoom.jpg",KOZOOM TV
@@ -1649,6 +1677,8 @@ http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/7458.ts
 http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/7457.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.opp.no/applefavicon.png",MADU TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://pictr.com/images/2023/05/18/E8sLu8.png",Magna Channel
+https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",Magna TV
 http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",Magna TV
@@ -1675,6 +1705,10 @@ http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/6654/index.m3u8
 http://213.57.91.138:8000/play/a05k
 #EXTINF:-1 group-title="MOVIES",MBC Action
 http://213.57.91.138:8000/play/a05l
+#EXTINF:-1 ,MCA
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+#EXTINF:-1 ,MCE
+https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.opp.no/applefavicon.png",MD Tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.opp.no/applefavicon.png",MD TV
@@ -1685,6 +1719,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 https://bit.ly/3sBQgmR
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png",MDTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png",MDTV
+https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png",MDTV HD
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://aqfadtv.astradamy.com/logos/MelayuKlasik.png",Melayu Klasik
@@ -1699,6 +1735,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccb.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.pinimg.com/474x/9d/ea/fb/9deafbdcf0ccd68ead00354764759cf7.jpg",Metro TV
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 #EXTINF:-1 group-title="NEWS",METROTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true",MeTV
@@ -1727,6 +1765,8 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b82124
 http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1442.ts
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/6/6f/Minimax_TV.png",Minimax
 http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1441.ts
+#EXTINF:-1 ,MKidz
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",MLB
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png",MLB Network
@@ -2122,9 +2162,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/VFhZ3Pl.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/VFhZ3Pl.png",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://i.imgur.com/PdMmYdM.png",Phoenix
 http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1559.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/u09ERA9.png",Phoenix Radio Bali
@@ -2479,6 +2516,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 #EXTINF:-1 group-title="MOVIES",RTV 21
 http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/7224.ts
 #EXTINF:-1 group-title="MOVIES",RTV 21 Plus
