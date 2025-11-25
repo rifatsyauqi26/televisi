@@ -45,7 +45,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Bisnet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg",Biznet Kids
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://mncvision.id/userfiles/image/channel/bloomberg.png",Bloomberg TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
@@ -53,8 +53,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",BN Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg",BTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/382/437382-SNAPSHOT-l.png",BTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/382/437382-SNAPSHOT-l.png",BTV
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",buddy star
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.visionplus.id/images/repository/132/493132-SNAPSHOT-l.jpg",CBeebies
@@ -65,7 +67,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Classic Movies
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg",Celestial Classic Movies
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Classic Movies
 https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&userid=lite&chname=Celestial_Movies_HD
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_353.png",CGTN
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
@@ -127,7 +129,7 @@ http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://img.meituan.net/csc/df949a136e7323841ed4837a30baed0228071.jpg",EBS Kids
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8?Uri:eroz_brebes.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/62oo8Bx.png",EBS KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://img.meituan.net/csc/df949a136e7323841ed4837a30baed0228071.jpg",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/aCeuhon.png",EBS+ 1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
@@ -141,7 +143,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000049/1024.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2018/08/TVA-29-August-6.png",FIGHT SPORTS
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg",FIGHT SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2018/08/TVA-29-August-6.png",FIGHT SPORTS
 https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&userid=lite&chname=FIGHT_SPORTS_HD
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.freepik.com/premium-vector/food-travel-logo-design-template_145155-1643.jpg",FOOD TRAVEL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
@@ -155,12 +157,16 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/Garuda-TV-Logo-2025.png",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/Garuda-TV-Logo-2025.png",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://png.pngtree.com/png-vector/20220121/ourmid/pngtree-globe-png-image_4358588.png",GlobalTrekker
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.transtv.co.id/livetv/anytv/GTV_live_streaming_tv.jpg",GTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.transtv.co.id/livetv/anytv/GTV_live_streaming_tv.jpg",GTV
 https://allcutv.rctiplus.id/gtv2023.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.transtv.co.id/livetv/anytv/GTV_live_streaming_tv.jpg",GTV
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/243/437243-SNAPSHOT-l.png",hanacarakaTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",HGTV
@@ -201,13 +207,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png",Kids TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ik.imagekit.io/taxtech/logos/profile/limage-13.png",KIX
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502076_tvchannels_v1.jpg",KIX
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502076_tvchannels_v1.jpg",KIX
 https://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&userid=lite&chname=KIX_HD
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Kompas.png",Kompas TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV
 https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/665/665-LOGO-m.png",LIFE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000050/1024.m3u8
@@ -221,6 +227,8 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.pinimg.com/474x/9d/ea/fb/9deafbdcf0ccd68ead00354764759cf7.jpg",Metro TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png",MNCTV
@@ -239,7 +247,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000162/1024.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg",Motor Racing
 https://op-group1-swiftservehd-1.dens.tv/h/h25/S4/mnf.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dens.tv/images/channel-logo/120.jpg",MotoRVision TV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg",Motorvision+
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg",Motorvision+
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision+
@@ -293,6 +301,8 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/220px-RCTI_logo_2015.svg.png",RCTI
 https://allcutv.rctiplus.id/rcti2023.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/220px-RCTI_logo_2015.svg.png",RCTI
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/666/666-LOGO-m.png",Reformed 21
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000016/1024.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.png",Rock Action
@@ -301,11 +311,13 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/702/437702-SNAPSHOT-l.png",RT English
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-m.png",RT English
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000153/1024.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rajawali_Televisi_abu-abu.svg/1280px-Rajawali_Televisi_abu-abu.svg.png",RTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV
 http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
@@ -319,6 +331,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png",SONY TEN 1
+http://supersonictv.live:8080/006779/439866/85647
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png",SONY TEN 2
+http://supersonictv.live:8080/006779/439866/85648
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",SPORTSTARS
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",SPORTSTARS2
@@ -355,13 +371,13 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000064/1024.m3u8
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png",tvMu
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg",TVN Movies
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg",TVN Movies
 https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg",TVN Movies
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg",TVN Movies
 https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png",TVN MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg",TVN Movies
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png",TVN MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg",TVN Movies
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png",TVOne
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
