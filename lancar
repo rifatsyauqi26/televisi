@@ -15,22 +15,16 @@ https://vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Bisnet Adventure 
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Bisnet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.biznetnetworks.com/assets/guideline-logo-biznet-02.jpg",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
-http://41.205.93.154/BBCTWO/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",CBEEBIES
-https://indihuy.streamized.net/atm/DASH/cbeebies/manifest.mpd
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax
-https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",CNA
 https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
@@ -41,22 +35,3 @@ https://tvsen7.aynaott.com/disney/index.m3u8?e=1780535174&u=78be6644-0a65-48ec-8
 https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1780535174&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1aad5fa44e1b9a0a5eb816f208eaaaf5
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png",HBO
-https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbofamily.png",HBO Family
-https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbohits.png",HBO Hits
-https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbosig.png",HBO Signature
-https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
-#EXTINF:-1 group-title="KIDS",INDI KIDS
-https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
-#EXTINF:-1 group-title="KIDS",MY KIDS
-https://indihuy.streamized.net/atm/DASH/mykids/manifest.mpd
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/shinpo5.png",SINPO TV
-https://indihuy.streamized.net/atm/DASH/jtv/manifest.mpd
-#EXTINF:-1 group-title="SPORTS",USEE SPORTS
-https://indihuy.streamized.net/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/warner.png",Warner TV
-https://indihuy.streamized.net/atm/DASH/warner/manifest.mpd
-
