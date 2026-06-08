@@ -25,7 +25,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",CNA
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png",Channel News Asia
 https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://41.205.93.154/CNBC/index.m3u8
