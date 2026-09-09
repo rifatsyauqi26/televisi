@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg",Moji
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://iptvsystem.my.id/img/mdtv.png",MDTV
