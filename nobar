@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="AVENGERS" tvg-logo="https://iwaatch.com/images/movie/cover/f9ee8729-3f49-4684-b265-8efafcb36f0b.webp",1.Iron Man — 2008
 https://server2.iwaatch.com/media/iron-man/movie_1080.mp4?s=XerKdbGcGrHDYxnhQ43pxw&e=1790226925
+#EXTINF:-1 group-title="AVENGERS" tvg-logo="https://iwaatch.com/images/movie/cover/f9c2c988-9723-45ba-98fb-1eb730fa2309.webp",2.The Incredible Hulk — 2008
+https://server2.iwaatch.com/media/the-incredible-hulk-2008/movie_1080.mp4?s=8s5dzJ-SnaFiuhuMWR_Y7w&e=1790227335
+#EXTINF:-1 group-title="AVENGERS" tvg-logo="https://iwaatch.com/images/movie/cover/0d05daa0-f2e2-42c7-b051-b9264b1a97cd.webp",3.Iron Man 2 — 2010
+https://server2.iwaatch.com/media/iron-man-2/movie_1080.mp4?s=yx_u5gVzS7VVLi1JAvLYOQ&e=1790227451
+#EXTINF:-1 group-title="AVENGERS" tvg-logo="https://iwaatch.com/images/movie/cover/0cedac9c-1e6a-47e9-9fae-90fb1eec5bb1.webp",4.Thor — 2011
+https://server2.iwaatch.com/media/Thor/movie_1080.mp4?s=3yZEDDOBVJqeNi1SWHtAgQ&e=1790227533
+#EXTINF:-1 group-title="AVENGERS" tvg-logo="https://iwaatch.com/images/movie/cover/4e210b64-2130-49a3-823e-3890fc95ba01.webp",5.Captain America: The First Avenger — 2011
+https://server1.iwaatch.com/media/Captain_America_The_First_Avenger/movie_1080.mp4?s=eW1uQxyAHmBjzkVsw8rGBQ&e=1790227663
